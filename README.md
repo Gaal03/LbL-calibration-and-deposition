@@ -1,2 +1,3 @@
 # LbL-calibration-and-deposition
-In this folder you will find routines to control the deposition and calibration using Arduino UNO interfaced with a python environment.
+
+The first iterations of the automated deposition system that our lab developed relied in a combination of routines running partially on Linux and the other parts on Windows. The constant changes of OS to calibrate, deposit and perform measurements was very tediously and time consuming. So, we developed a single environment on jupyter notebook where we can perform everything we need prior and during the deposition routine that would run in any OS. This single environment reduced the time required to preparation to deposition in at least 75%, reducing errors and optimizing our time.
